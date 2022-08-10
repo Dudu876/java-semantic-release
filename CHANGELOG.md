@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.0.4](https://github.com/Dudu876/java-semantic-release/compare/v1.0.3...v1.0.4) (2022-08-10)
+
+
+### Bug Fixes
+
+* improve publish ([c8801e6](https://github.com/Dudu876/java-semantic-release/commit/c8801e63bd3328e8ee97d0662e587c8a266c958a))
+
 ## [1.0.3](https://github.com/Dudu876/java-semantic-release/compare/v1.0.2...v1.0.3) (2022-08-10)
 
 
