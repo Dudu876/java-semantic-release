@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.0.2](https://github.com/Dudu876/java-semantic-release/compare/v1.0.1...v1.0.2) (2022-08-10)
+
+
+### Bug Fixes
+
+* delete target ([a4af133](https://github.com/Dudu876/java-semantic-release/commit/a4af133970877e10802dbf51e7ec0cfaf26d6dc9))
+
 ## [1.0.1](https://github.com/Dudu876/java-semantic-release/compare/v1.0.0...v1.0.1) (2022-08-10)
 
 
