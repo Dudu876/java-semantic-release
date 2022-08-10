@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # maven
-.mvn/
+.mvn/*.jar
 
 # release
 target/
