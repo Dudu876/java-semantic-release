@@ -1,6 +1,6 @@
 {
-  "branches": "main",
-  "repositoryUrl": "https://github.com/thecodinganalyst/semantic-java",
+  "branches": [{"name": "main"}],
+  "repositoryUrl": "https://github.com/Dudu876/java-semantic-release",
   "debug": "false",
   "plugins": [
     "@semantic-release/commit-analyzer",
