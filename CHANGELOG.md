@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.0.1](https://github.com/Dudu876/java-semantic-release/compare/v1.0.0...v1.0.1) (2022-08-10)
+
+
+### Bug Fixes
+
+* maven deploy to gh packages ([62d51a4](https://github.com/Dudu876/java-semantic-release/commit/62d51a40c593311f980e9397f4d29b3572172c82))
+
 # 1.0.0 (2022-08-10)
 
 
