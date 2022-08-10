@@ -20,6 +20,20 @@
         }
     ],
     [
+        "@semantic-release/exec",
+        {
+            "publishCmd": "docker build -t dudu876/java-semantic-release:latest ."
+        }
+    ],
+    [
+        "@semantic-release-plus/docker",
+        {
+            "name": "dudu876/java-semantic-release",
+            "registry": "ghcr.io",
+            "publishChannelTag": true
+        }
+    ],
+    [
       "@semantic-release/git",
       {
         "assets": ["pom.xml", "CHANGELOG.md"]
