@@ -1,5 +1,14 @@
 # Semantic Versioning Changelog
 
+## [1.0.5](https://github.com/Dudu876/java-semantic-release/compare/v1.0.4...v1.0.5) (2022-08-10)
+
+
+### Bug Fixes
+
+* docker ([9ca96fd](https://github.com/Dudu876/java-semantic-release/commit/9ca96fd961037b88ecb9009c6dcbd20ba1d1ece8))
+* docker ([e22c891](https://github.com/Dudu876/java-semantic-release/commit/e22c89169bbd3b280003c03a850a47912fc66578))
+* docker ([a0d016b](https://github.com/Dudu876/java-semantic-release/commit/a0d016b33d7759ef36c78e1315010495f7add1ae))
+
 ## [1.0.4](https://github.com/Dudu876/java-semantic-release/compare/v1.0.3...v1.0.4) (2022-08-10)
 
 
