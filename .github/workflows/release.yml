@@ -29,9 +29,14 @@ jobs:
         node-version: 'lts/*'
     - name: Build with Maven
       run: ./mvnw -B package --file pom.xml
+        node-version: 'lts/*'
+    - name: Docker build
+      run: docker build -t dudu876/java-semantic-release .
     - name: setup semantic-release
       run: npm install -g semantic-release @semantic-release/exec @semantic-release/git @semantic-release/changelog @semantic-release-plus/docker -D
     - name: release
       run: npx semantic-release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DOCKER_USERNAME: Dudu876
+        DOCKER_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
